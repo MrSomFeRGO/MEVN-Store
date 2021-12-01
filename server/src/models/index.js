@@ -1,4 +1,4 @@
 module.exports = {
   Product: require("./Product"),
-  Category: require("./Category "),
+  Category: require("./Category"),
 };
