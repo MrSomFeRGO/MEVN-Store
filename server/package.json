@@ -17,5 +17,8 @@
     "nodemon": "^2.0.15",
     "qs": "^6.10.1",
     "ramda": "^0.27.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.0"
   }
 }
